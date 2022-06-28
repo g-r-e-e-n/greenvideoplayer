@@ -1,0 +1,16 @@
+pyrogram==10.1.0
+py-tgcalls==0.9.1
+parse-torrent-name
+tgcrypto
+yt-dlp
+youtube-search-python
+httpx==0.23.0
+youtube-search
+heroku3
+pillow
+motor
+dnspython
+pytz
+apscheduler
+python-dotenv
+
